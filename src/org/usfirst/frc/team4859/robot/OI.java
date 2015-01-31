@@ -13,6 +13,7 @@ public class OI { //peant buttatr
 =======
 public class OI {
 	//waffle
+	//syrup
 >>>>>>> origin/master
     //// CREATING BUTTONS
     // One type of button is a joystick button which is any button on a joystick.
