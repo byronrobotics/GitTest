@@ -7,8 +7,13 @@ import org.usfirst.frc.team4859.robot.commands.ExampleCommand;
  * This class is the glue that binds the controls on the physical operator
  * interface to the commands and command groups that allow control of the robot.
  */
+<<<<<<< HEAD
 public class OI { //peant buttatr
 	//lard
+=======
+public class OI {
+	//waffle
+>>>>>>> origin/master
     //// CREATING BUTTONS
     // One type of button is a joystick button which is any button on a joystick.
     // You create one by telling it which joystick it's on and which button
